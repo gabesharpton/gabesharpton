@@ -6,7 +6,7 @@ I love working with Javascript and have found React to be my go to library. Whil
 
 ----
 
-- 🔭 I’m currently working on, some Widgets for a React app using CanvasJS.
+- 🔭 I’m currently working on, freelance website using React.
 - 💬 Ask me about, Front End Development or what video game I am currently playing!
 - 📫 How to reach me: www.gabesharpton.com
 - 🌱 I’m currently learning, C++, Unity game Engine.
