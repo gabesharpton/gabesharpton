@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-#### My name is Gabe Sharpton and I am a Front End Developer
+#### My name is Gabe Sharpton and I make websites
 
-I love working with Javascript and have found React to be my go to library. While I am trained in Full Stack Development (MVC, MERN, Django), I cant deny my love for Front End Development. I am open to opportunities that allow me to grow my skills as a Jr. Developer.
+I like football and dogs. I love exploring new topics and exchanging information with new poeple. Let's talk about something! I am open to opportunities that allow me to grow my skills as a Jr. Developer.
 
 ----
 
-- 🔭 I’m currently working on, freelance website using React.
-- 💬 Ask me about, Front End Development or what video game I am currently playing!
-- 📫 How to reach me: www.gabesharpton.com
-- 🌱 I’m currently learning, C++, Unity game Engine.
+- 🔭 I’m currently working on, My MTA (Microsoft) Certification.
+- 💬 Ask me about, my time as a chef!
+- 📫 How to reach me: www.gabesharpton.com or @ gabriel.sharpton@gmail.com
+- 🌱 I’m currently learning, C++
