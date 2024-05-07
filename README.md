@@ -6,7 +6,7 @@ I enjoy learning and new things and helping those around me while I do it! I am 
 
 ----
 
-- 🔭 I’m currently working on, my Capstone Project.
+- 🔭 I’m currently working on, creating the front-end application for a start-up company.
 - 💬 Ask me about, my time as a chef!
 - 📫 How to reach me: www.gabesharpton.com or @ gabriel.sharpton@gmail.com
 - 🌱 I’m currently learning, Bachelor degree work and Java
